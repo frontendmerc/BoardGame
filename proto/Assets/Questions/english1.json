@@ -1,0 +1,1868 @@
+﻿{
+  "questionList": [
+    {
+      "question_no": 1,
+      "question": "What ___ you doing at 7 o'clock in the morning",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "were",
+      "questionScore": 3
+    },
+
+    {
+      "question_no": 2,
+      "question": " I ___ sleeping when the telephone rang.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "was",
+      "questionScore": 3
+    },
+    {
+      "question_no": 3,
+      "question": "When you phoned I ___ working in the garden.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "was",
+      "questionScore": 3
+    },
+
+    {
+      "question_no": 4,
+      "question": "When I got up this morning the sun ___ shining.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "was",
+      "questionScore": 3
+    },
+    {
+      "question_no": 5,
+      "question": " I ___ painting all day yesterday.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "was",
+      "questionScore": 3
+    },
+    {
+      "question_no": 6,
+      "question": "The children ___ playing video games.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "are",
+      "questionScore": 3
+    },
+    {
+      "question_no": 7,
+      "question": "She ___ working in the garden.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "is",
+      "questionScore": 3
+    },
+    {
+      "question_no": 8,
+      "question": "The teacher ___ evaluating the answer sheets.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "is",
+      "questionScore": 3
+    },
+    {
+      "question_no": 9,
+      "question": "You can’t go out now. It ___ raining cats and dogs.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "is",
+      "questionScore": 3
+    },
+
+    {
+      "question_no": 10,
+      "question": "In middle school, Andre ___ so lazy.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "was",
+      "questionScore": 3
+    },
+    {
+      "question_no": 11,
+      "question": "My grandfather __ ninety years old when he passed away.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "was",
+      "questionScore": 3
+    },
+    {
+      "question_no": 12,
+      "question": "Mrs. Ants ___ from Nicaragua, people love her.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "is",
+      "questionScore": 3
+    },
+    {
+      "question_no": 13,
+      "question": "The game ___ under my control now.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "is",
+      "questionScore": 3
+    },
+    {
+      "question_no": 14,
+      "question": " ___ the tea still hot or I can get you another one?",
+      "questionChoice": [
+        {
+          "choice1": "Is",
+          "choice2": "Are",
+          "choice3": "Was",
+          "choice4": "Were"
+        }
+      ],
+      "questionAnswer": "Is",
+      "questionScore": 3
+    },
+    {
+      "question_no": 15,
+      "question": "Our neighbor's dog __ so noisy last night.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "was",
+      "questionScore": 3
+    },
+    {
+      "question_no": 16,
+      "question": "It __ raining yesterday at around this time.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "was",
+      "questionScore": 3
+    },
+    {
+      "question_no": 17,
+      "question": "The children __ not listening to the teacher when she came in.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "were",
+      "questionScore": 3
+    },
+    {
+      "question_no": 18,
+      "question": "Jessica and Lea ___ making a model airplane right now.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "are",
+      "questionScore": 3
+    },
+    {
+      "question_no": 19,
+      "question": "There ___ more dozens of apples in the tree now.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "are",
+      "questionScore": 3
+    },
+    {
+      "question_no": 20,
+      "question": "There a group of children ___ talking so loud in the class just now",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "were",
+      "questionScore": 3
+    },
+
+
+    {
+      "question_no": 21,
+      "question": "Do you ___ mineral water",
+      "questionChoice": [
+        {
+          "choice1": "drink",
+          "choice2": "drinking",
+          "choice3": "drank",
+          "choice4": "drunk"
+        }
+      ],
+      "questionAnswer": "drink",
+      "questionScore": 3
+    },
+    {
+      "question_no": 22,
+      "question": "Do Sarah and Linda ___ their pets",
+      "questionChoice": [
+        {
+          "choice1": "feeding",
+          "choice2": "fed",
+          "choice3": "feed",
+          "choice4": "fat"
+        }
+      ],
+      "questionAnswer": "feed",
+      "questionScore": 3
+    },
+    {
+      "question_no": 23,
+      "question": "Does your teacher ___ your homework",
+      "questionChoice": [
+        {
+          "choice1": "checked",
+          "choice2": "cek",
+          "choice3": "checking",
+          "choice4": "check"
+        }
+      ],
+      "questionAnswer": "check",
+      "questionScore": 3
+    },
+    {
+      "question_no": 24,
+      "question": "Do they ___ in the old house?",
+      "questionChoice": [
+        {
+          "choice1": "living",
+          "choice2": "leave",
+          "choice3": "lived",
+          "choice4": "live"
+        }
+      ],
+      "questionAnswer": "live",
+      "questionScore": 3
+    },
+    {
+      "question_no": 25,
+      "question": "Does the cat ___ on the wall in the mornings?",
+      "questionChoice": [
+        {
+          "choice1": "sitting",
+          "choice2": "sitted",
+          "choice3": "sit",
+          "choice4": "sat"
+        }
+      ],
+      "questionAnswer": "sit",
+      "questionScore": 3
+    },
+    {
+      "question_no": 26,
+      "question": "___ the cat sit on the wall in the mornings?",
+      "questionChoice": [
+        {
+          "choice1": "Do",
+          "choice2": "Does",
+          "choice3": "Is",
+          "choice4": "Are"
+        }
+      ],
+      "questionAnswer": "Does",
+      "questionScore": 3
+    },
+    {
+      "question_no": 27,
+      "question": "Does Nina ___ computer games?",
+      "questionChoice": [
+        {
+          "choice1": "play",
+          "choice2": "played",
+          "choice3": "playing",
+          "choice4": "plays"
+        }
+      ],
+      "questionAnswer": "play",
+      "questionScore": 3
+    },
+    {
+      "question_no": 28,
+      "question": "___ Nina play computer games?",
+      "questionChoice": [
+        {
+          "choice1": "Do",
+          "choice2": "Does",
+          "choice3": "Is",
+          "choice4": "Are"
+        }
+      ],
+      "questionAnswer": "Does",
+      "questionScore": 3
+    },
+    {
+      "question_no": 29,
+      "question": "Do your parents ___ TV in the afternoon?",
+      "questionChoice": [
+        {
+          "choice1": "watch",
+          "choice2": "watches",
+          "choice3": "watched",
+          "choice4": "watching"
+        }
+      ],
+      "questionAnswer": "watch",
+      "questionScore": 3
+    },
+    {
+      "question_no": 30,
+      "question": "___ your parents watch TV in the afternoon?",
+      "questionChoice": [
+        {
+          "choice1": "Do",
+          "choice2": "Does",
+          "choice3": "Is",
+          "choice4": "Are"
+        }
+      ],
+      "questionAnswer": "Do",
+      "questionScore": 3
+    },
+
+
+
+    {
+      "question_no": 31,
+      "question": "Does your grandmother ___ the phone?",
+      "questionChoice": [
+        {
+          "choice1": "answers",
+          "choice2": "answer",
+          "choice3": "answering",
+          "choice4": "answered"
+        }
+      ],
+      "questionAnswer": "answer",
+      "questionScore": 3
+    },
+    {
+      "question_no": 31,
+      "question": "___ your grandmother answer the phone?",
+      "questionChoice": [
+        {
+          "choice1": "Do",
+          "choice2": "Does",
+          "choice3": "Is",
+          "choice4": "Are"
+        }
+      ],
+      "questionAnswer": "Does",
+      "questionScore": 3
+    },
+    {
+      "question_no": 32,
+      "question": "Does Andy __ the shopping?",
+      "questionChoice": [
+        {
+          "choice1": "do",
+          "choice2": "does",
+          "choice3": "doing",
+          "choice4": "done"
+        }
+      ],
+      "questionAnswer": "do",
+      "questionScore": 3
+    },
+    {
+      "question_no": 33,
+      "question": "Do Garry and Ken ___ a cup of tea in the afternoon?",
+      "questionChoice": [
+        {
+          "choice1": "has",
+          "choice2": "have",
+          "choice3": "had",
+          "choice4": "having"
+        }
+      ],
+      "questionAnswer": "Do",
+      "questionScore": 3
+    },
+    {
+      "question_no": 34,
+      "question": "(Past tense)They ___ something to drink. ",
+      "questionChoice": [
+        {
+          "choice1": "ordering",
+          "choice2": "order",
+          "choice3": "ordered",
+          "choice4": "orders"
+        }
+      ],
+      "questionAnswer": "ordered",
+      "questionScore": 3
+    },
+    {
+      "question_no": 35,
+      "question": "(Past tense)Last summer I ___ to Stuttgart.",
+      "questionChoice": [
+        {
+          "choice1": "go",
+          "choice2": "goes",
+          "choice3": "going",
+          "choice4": "went"
+        }
+      ],
+      "questionAnswer": "went",
+      "questionScore": 3
+    },
+    {
+      "question_no": 36,
+      "question": "(Past tense)She ___ her homework in the afternoon.",
+      "questionChoice": [
+        {
+          "choice1": "do",
+          "choice2": "does",
+          "choice3": "done",
+          "choice4": "did"
+        }
+      ],
+      "questionAnswer": "did",
+      "questionScore": 3
+    },
+    {
+      "question_no": 37,
+      "question": "(Past tense)He ___ to 10.",
+      "questionChoice": [
+        {
+          "choice1": "count",
+          "choice2": "counted",
+          "choice3": "counting",
+          "choice4": "counts"
+        }
+      ],
+      "questionAnswer": "counted",
+      "questionScore": 3
+    },
+    {
+      "question_no": 38,
+      "question": "(Past tense)Our cat ___ a big mouse.",
+      "questionChoice": [
+        {
+          "choice1": "catch",
+          "choice2": "catches",
+          "choice3": "caught",
+          "choice4": "catching"
+        }
+      ],
+      "questionAnswer": "caught",
+      "questionScore": 3
+    },
+    {
+      "question_no": 39,
+      "question": "The weather ___ really nice last month.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "was",
+      "questionScore": 3
+    },
+    {
+      "question_no": 40,
+      "question": "The secretary ___ the file yesterday.",
+      "questionChoice": [
+        {
+          "choice1": "delete",
+          "choice2": "deleting",
+          "choice3": "deleted",
+          "choice4": "deletes"
+        }
+      ],
+      "questionAnswer": "deleted",
+      "questionScore": 3
+    },
+    {
+      "question_no": 41,
+      "question": "(Past tense)The people ___ something to each other.",
+      "questionChoice": [
+        {
+          "choice1": "whispering",
+          "choice2": "whispered",
+          "choice3": "whisper",
+          "choice4": "whispers"
+        }
+      ],
+      "questionAnswer": "whispered",
+      "questionScore": 3
+    },
+
+
+
+    {
+      "question_no": 42,
+      "question": "I ___ tennis every Sunday morning.",
+      "questionChoice": [
+        {
+          "choice1": "playing",
+          "choice2": "play",
+          "choice3": "am playing",
+          "choice4": "am play"
+        }
+      ],
+      "questionAnswer": "play",
+      "questionScore": 3
+    },
+    {
+      "question_no": 43,
+      "question": "Don't make so much noise. Noriko ___ to study for her ESL test!",
+      "questionChoice": [
+        {
+          "choice1": "try",
+          "choice2": "tries",
+          "choice3": "tried",
+          "choice4": "is trying"
+        }
+      ],
+      "questionAnswer": "is trying",
+      "questionScore": 3
+    },
+    {
+      "question_no": 44,
+      "question": "Jun-Sik ___ his teeth before breakfast every morning.",
+      "questionChoice": [
+        {
+          "choice1": "will cleaned",
+          "choice2": "is cleaning",
+          "choice3": "cleans",
+          "choice4": "clean"
+        }
+      ],
+      "questionAnswer": "cleans",
+      "questionScore": 3
+    },
+    {
+      "question_no": 45,
+      "question": "Sorry, she can't come to the phone. She ___ a bath!",
+      "questionChoice": [
+        {
+          "choice1": "is having",
+          "choice2": "having",
+          "choice3": "have",
+          "choice4": "has"
+        }
+      ],
+      "questionAnswer": "is having",
+      "questionScore": 3
+    },
+    {
+      "question_no": 46,
+      "question": "It___. many times every winter in Frankfurt.",
+      "questionChoice": [
+        {
+          "choice1": "snows",
+          "choice2": "snowed",
+          "choice3": "is snowing",
+          "choice4": "is snow"
+        }
+      ],
+      "questionAnswer": "snows",
+      "questionScore": 3
+    },
+    {
+      "question_no": 47,
+      "question": "How many students in your class ___ from Korea?",
+      "questionChoice": [
+        {
+          "choice1": "comes",
+          "choice2": "come",
+          "choice3": "came",
+          "choice4": "are coming"
+        }
+      ],
+      "questionAnswer": "come",
+      "questionScore": 3
+    },
+    {
+      "question_no": 48,
+      "question": "Babies ___ when they are hungry.",
+      "questionChoice": [
+        {
+          "choice1": "cry",
+          "choice2": "cried",
+          "choice3": "cries",
+          "choice4": "are crying"
+        }
+      ],
+      "questionAnswer": "cry",
+      "questionScore": 3
+    },
+    {
+      "question_no": 49,
+      "question": "Sorry, you can't borrow my pencil. I ___ it myself.",
+      "questionChoice": [
+        {
+          "choice1": "was using",
+          "choice2": "use",
+          "choice3": "using",
+          "choice4": "am using"
+        }
+      ],
+      "questionAnswer": "am using",
+      "questionScore": 3
+    },
+    {
+      "question_no": 50,
+      "question": "I ___ for my pen. Have you seen it?",
+      "questionChoice": [
+        {
+          "choice1": "will look",
+          "choice2": "looking",
+          "choice3": "look",
+          "choice4": "am looking"
+        }
+      ],
+      "questionAnswer": "whispered",
+      "questionScore": 3
+    },
+
+
+
+
+    {
+      "question_no": 51,
+      "question": "Can I ___ the window?",
+      "questionChoice": [
+        {
+          "choice1": "opening",
+          "choice2": "opens",
+          "choice3": "open",
+          "choice4": "to open"
+        }
+      ],
+      "questionAnswer": "opens",
+      "questionScore": 3
+    },
+    {
+      "question_no": 52,
+      "question": "Manat is playing ___ guitar.",
+      "questionChoice": [
+        {
+          "choice1": "a",
+          "choice2": "the",
+          "choice3": "-",
+          "choice4": "an"
+        }
+      ],
+      "questionAnswer": "the",
+      "questionScore": 3
+    },
+    {
+      "question_no": 53,
+      "question": "That is a bird. ___ bird has two wings?",
+      "questionChoice": [
+        {
+          "choice1": "The",
+          "choice2": "A",
+          "choice3": "An",
+          "choice4": "-"
+        }
+      ],
+      "questionAnswer": "The",
+      "questionScore": 3
+    },
+    {
+      "question_no": 54,
+      "question": "The water is dirty. You must not ___ it.",
+      "questionChoice": [
+        {
+          "choice1": "drink",
+          "choice2": "speak",
+          "choice3": "eat",
+          "choice4": "have"
+        }
+      ],
+      "questionAnswer": "drink",
+      "questionScore": 3
+    },
+    {
+      "question_no": 55,
+      "question": "There ___ men in the taxi.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "a",
+          "choice4": "the"
+        }
+      ],
+      "questionAnswer": "are",
+      "questionScore": 3
+    },
+    {
+      "question_no": 56,
+      "question": " ___ are they going? To the market.",
+      "questionChoice": [
+        {
+          "choice1": "Where",
+          "choice2": "When",
+          "choice3": "What",
+          "choice4": "How"
+        }
+      ],
+      "questionAnswer": "Where",
+      "questionScore": 3
+    },
+    {
+      "question_no": 57,
+      "question": "We get up ___ 6 o'clock.",
+      "questionChoice": [
+        {
+          "choice1": "on",
+          "choice2": "under",
+          "choice3": "at",
+          "choice4": "in"
+        }
+      ],
+      "questionAnswer": "at",
+      "questionScore": 3
+    },
+    {
+      "question_no": 58,
+      "question": "I'm hungry. I want two ___ of chicken.",
+      "questionChoice": [
+        {
+          "choice1": "bowls",
+          "choice2": "glasses",
+          "choice3": "plates",
+          "choice4": "pieces"
+        }
+      ],
+      "questionAnswer": "The",
+      "questionScore": 3
+    },
+    {
+      "question_no": 59,
+      "question": "Can I ___ the window?",
+      "questionChoice": [
+        {
+          "choice1": "open",
+          "choice2": "opens",
+          "choice3": "opening",
+          "choice4": "to open"
+        }
+      ],
+      "questionAnswer": "open",
+      "questionScore": 3
+    },
+    {
+      "question_no": 60,
+      "question": "Anong is ___ English.",
+      "questionChoice": [
+        {
+          "choice1": "speak",
+          "choice2": "speaking",
+          "choice3": "speaks",
+          "choice4": "to speak"
+        }
+      ],
+      "questionAnswer": "speaking",
+      "questionScore": 3
+    },
+
+
+
+    {
+      "question_no": 61,
+      "question": "That is ____.",
+      "questionChoice": [
+        {
+          "choice1": "egg",
+          "choice2": "eggs",
+          "choice3": "an egg",
+          "choice4": "a egg"
+        }
+      ],
+      "questionAnswer": "an egg",
+      "questionScore": 3
+    },
+    {
+      "question_no": 62,
+      "question": "The girl ___ in the classroom.",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "am",
+          "choice3": "has",
+          "choice4": "are"
+        }
+      ],
+      "questionAnswer": "speaking",
+      "questionScore": 3
+    },
+    {
+      "question_no": 63,
+      "question": "Tim is ___ a picture.",
+      "questionChoice": [
+        {
+          "choice1": "eating",
+          "choice2": "riding",
+          "choice3": "drawing",
+          "choice4": "driving"
+        }
+      ],
+      "questionAnswer": "drawing",
+      "questionScore": 3
+    },
+    {
+      "question_no": 64,
+      "question": "___ I was entering the room, the phone rang.",
+      "questionChoice": [
+        {
+          "choice1": "When",
+          "choice2": "Just as",
+          "choice3": "For",
+          "choice4": "At the time"
+        }
+      ],
+      "questionAnswer": "Just as",
+      "questionScore": 5
+    },
+    {
+      "question_no": 65,
+      "question": "It ____ just before the war when Colin received a letter from Germany.",
+      "questionChoice": [
+        {
+          "choice1": "should be",
+          "choice2": "was",
+          "choice3": "had been",
+          "choice4": "has been"
+        }
+      ],
+      "questionAnswer": "was",
+      "questionScore": 5
+    },
+    {
+      "question_no": 66,
+      "question": "Students ____ to each other when the director wanted them to help him.",
+      "questionChoice": [
+        {
+          "choice1": "are talking",
+          "choice2": "were talking",
+          "choice3": "have talked",
+          "choice4": "talk"
+        }
+      ],
+      "questionAnswer": "were talking",
+      "questionScore": 5
+    },
+    {
+      "question_no": 67,
+      "question": "When he ____ a schoolboy in Ohio, Jeffrey caught a wounded falcon in the roof.",
+      "questionChoice": [
+        {
+          "choice1": "was",
+          "choice2": "is",
+          "choice3": "has been",
+          "choice4": "would be"
+        }
+      ],
+      "questionAnswer": "was",
+      "questionScore": 5
+    },
+    {
+      "question_no": 68,
+      "question": "Jane ____ always ____ her room untidy these days.",
+      "questionChoice": [
+        {
+          "choice1": "was / leaving",
+          "choice2": "- / leaves",
+          "choice3": "is / leaving",
+          "choice4": "- / left"
+        }
+      ],
+      "questionAnswer": "is / leaving",
+      "questionScore": 5
+    },
+    {
+      "question_no": 69,
+      "question": "We ____ your size at the moment, but we can order it for you.",
+      "questionChoice": [
+        {
+          "choice1": "haven't had",
+          "choice2": "didn't have",
+          "choice3": "don't have",
+          "choice4": "won't have"
+        }
+      ],
+      "questionAnswer": "don't have",
+      "questionScore": 5
+    },
+    {
+      "question_no": 70,
+      "question": "We ____ for Alexandria for our holiday tomorrow morning.",
+      "questionChoice": [
+        {
+          "choice1": "are leaving",
+          "choice2": "leave",
+          "choice3": "left",
+          "choice4": "go"
+        }
+      ],
+      "questionAnswer": "are leaving",
+      "questionScore": 5
+    },
+
+
+    {
+      "question_no": 71,
+      "question": "Julian was a young student when his father ____ in an accident.",
+      "questionChoice": [
+        {
+          "choice1": "dies",
+          "choice2": "die",
+          "choice3": "died",
+          "choice4": "dead"
+        }
+      ],
+      "questionAnswer": "died",
+      "questionScore": 5
+    },
+    {
+      "question_no": 72,
+      "question": "I ____ the garden but I couldn't find the spade.",
+      "questionChoice": [
+        {
+          "choice1": "am digging",
+          "choice2": "was going to dig",
+          "choice3": "dug",
+          "choice4": "dig"
+        }
+      ],
+      "questionAnswer": "was going to dig",
+      "questionScore": 5
+    },
+    {
+      "question_no": 73,
+      "question": "Last year I ____ camping with my friends for the last time.",
+      "questionChoice": [
+        {
+          "choice1": "went",
+          "choice2": "go",
+          "choice3": "am going",
+          "choice4": "was going"
+        }
+      ],
+      "questionAnswer": "went",
+      "questionScore": 5
+    },
+    {
+      "question_no": 74,
+      "question": "On seeing her brother unconscious, she immediately ____ her mother and ____ help.",
+      "questionChoice": [
+        {
+          "choice1": "called / wanted",
+          "choice2": "was calling / was wanting",
+          "choice3": "callls / is wanting",
+          "choice4": "was calling / wants"
+        }
+      ],
+      "questionAnswer": "called / wanted",
+      "questionScore": 5
+    },
+    {
+      "question_no": 75,
+      "question": "The child ____ with her toy when I ____ her in the living room.",
+      "questionChoice": [
+        {
+          "choice1": "played / left",
+          "choice2": "was playing / left",
+          "choice3": "plays / am leaving",
+          "choice4": "id playing / leave"
+        }
+      ],
+      "questionAnswer": "was playing / left",
+      "questionScore": 5
+    },
+    {
+      "question_no": 76,
+      "question": "After they ____ the books, they ____ their journey.",
+      "questionChoice": [
+        {
+          "choice1": "delivered / started",
+          "choice2": "were delivering / started",
+          "choice3": "deliver / are starting",
+          "choice4": "delivered / were starting"
+        }
+      ],
+      "questionAnswer": "delivered / started",
+      "questionScore": 5
+    },
+    {
+      "question_no": 77,
+      "question": "After struggling for weeks I ____ the job I ____ and now I'm happy with it.",
+      "questionChoice": [
+        {
+          "choice1": "got / wanted",
+          "choice2": "was getting / was wanting",
+          "choice3": "am getting / wanted",
+          "choice4": "got / have been wanting"
+        }
+      ],
+      "questionAnswer": "got / wanted",
+      "questionScore": 5
+    },
+    {
+      "question_no": 78,
+      "question": "Making such a thing ____ the peasants  and they ____ the situation despite some hardships.",
+      "questionChoice": [
+        {
+          "choice1": "pleased / were utilizing",
+          "choice2": "pleased / utilized",
+          "choice3": "pleases / utilized",
+          "choice4": "is pleasing / are utilizing"
+        }
+      ],
+      "questionAnswer": "pleased / utilized",
+      "questionScore": 5
+    },
+    {
+      "question_no": 79,
+      "question": "He never ____ his work on time until this morning when Jane visited us.",
+      "questionChoice": [
+        {
+          "choice1": "was finished",
+          "choice2": "is finishing",
+          "choice3": "finished",
+          "choice4": "finishes"
+        }
+      ],
+      "questionAnswer": "finished",
+      "questionScore": 3
+    },
+    {
+      "question_no": 80,
+      "question": "I ____ the hours I spent in the Thirties arguing with people who thought they were much cleverer than I was.",
+      "questionChoice": [
+        {
+          "choice1": "rememebr",
+          "choice2": "remembered",
+          "choice3": "am remembering",
+          "choice4": "will remember"
+        }
+      ],
+      "questionAnswer": "remember",
+      "questionScore": 3
+    },
+
+
+    {
+      "question_no": 81,
+      "question": "The car alarm ___ went off ten minutes ago is still on.",
+      "questionChoice": [
+        {
+          "choice1": "whose",
+          "choice2": "who",
+          "choice3": "which",
+          "choice4": "when"
+        }
+      ],
+      "questionAnswer": "which",
+      "questionScore": 3
+    },
+    {
+      "question_no": 82,
+      "question": "The Moon, ___ diameter is only a fourth of the Earth, is the only natural satellite of the Earth.",
+      "questionChoice": [
+        {
+          "choice1": "whose",
+          "choice2": "who",
+          "choice3": "which",
+          "choice4": "when"
+        }
+      ],
+      "questionAnswer": "whose",
+      "questionScore": 3
+    },
+    {
+      "question_no": 83,
+      "question": "The burglar ___ no one saw entering the apartment stole jewellery worth a hundred thousand dollars.",
+      "questionChoice": [
+        {
+          "choice1": "whom",
+          "choice2": "who",
+          "choice3": "why",
+          "choice4": "where"
+        }
+      ],
+      "questionAnswer": "whom",
+      "questionScore": 3
+    },
+    {
+      "question_no": 84,
+      "question": "He panicked when he couldn't find the key in his pocket ___ he always kept it.",
+      "questionChoice": [
+        {
+          "choice1": "where",
+          "choice2": "that",
+          "choice3": "which",
+          "choice4": "when"
+        }
+      ],
+      "questionAnswer": "where",
+      "questionScore": 3
+    },
+    {
+      "question_no": 85,
+      "question": "We hired a new engineer..........worked for a big electronics company for years.",
+      "questionChoice": [
+        {
+          "choice1": "whose",
+          "choice2": "who",
+          "choice3": "which",
+          "choice4": "when"
+        }
+      ],
+      "questionAnswer": "who",
+      "questionScore": 3
+    },
+    {
+      "question_no": 86,
+      "question": "Newton made his discoveries during a time ___ humans didn't know much about sciences.",
+      "questionChoice": [
+        {
+          "choice1": "whose",
+          "choice2": "who",
+          "choice3": "which",
+          "choice4": "when"
+        }
+      ],
+      "questionAnswer": "when",
+      "questionScore": 3
+    },
+    {
+      "question_no": 87,
+      "question": "Scientists are still trying to find the reasons ___ tornados and hurricanes form.",
+      "questionChoice": [
+        {
+          "choice1": "where",
+          "choice2": "whom",
+          "choice3": "why",
+          "choice4": "when"
+        }
+      ],
+      "questionAnswer": "why",
+      "questionScore": 3
+    },
+    {
+      "question_no": 88,
+      "question": "On the day of the picnic it started to rain in the morning, ___ was a big disappointment.",
+      "questionChoice": [
+        {
+          "choice1": "whose",
+          "choice2": "who",
+          "choice3": "which",
+          "choice4": "when"
+        }
+      ],
+      "questionAnswer": "which",
+      "questionScore": 3
+    },
+    {
+      "question_no": 89,
+      "question": "Maths, ___ most students aren't very fond of, İs my favourite subject.",
+      "questionChoice": [
+        {
+          "choice1": "whose",
+          "choice2": "who",
+          "choice3": "which",
+          "choice4": "when"
+        }
+      ],
+      "questionAnswer": "which",
+      "questionScore": 3
+    },
+    {
+      "question_no": 90,
+      "question": "The necklace ___ she always wears to special occasions is from her grandmother.",
+      "questionChoice": [
+        {
+          "choice1": "whose",
+          "choice2": "in which",
+          "choice3": "that",
+          "choice4": "whom"
+        }
+      ],
+      "questionAnswer": "that",
+      "questionScore": 3
+    },
+
+
+    {
+      "question_no": 91,
+      "question": "I can only recommend the holiday resort ___ we spend a week at this year.",
+      "questionChoice": [
+        {
+          "choice1": "which",
+          "choice2": "whose",
+          "choice3": "when",
+          "choice4": "where"
+        }
+      ],
+      "questionAnswer": "which",
+      "questionScore": 3
+    },
+    {
+      "question_no": 92,
+      "question": "I sometimes see some famous people having a cup of coffee at the cafe ___ is at the corner of my street.",
+      "questionChoice": [
+        {
+          "choice1": "where",
+          "choice2": "whose",
+          "choice3": "which",
+          "choice4": "whom"
+        }
+      ],
+      "questionAnswer": "which",
+      "questionScore": 3
+    },
+    {
+      "question_no": 93,
+      "question": "The small orchard near the church ___ we used to eat cherries and apricots doesn't exist anymore.",
+      "questionChoice": [
+        {
+          "choice1": "where",
+          "choice2": "when",
+          "choice3": "which",
+          "choice4": "whom"
+        }
+      ],
+      "questionAnswer": "where",
+      "questionScore": 3
+    },
+    {
+      "question_no": 94,
+      "question": "The baby is sleeping ___ , but I think she will wake up in an hour because she is ___",
+      "questionChoice": [
+        {
+          "choice1": "peacefully / hungry",
+          "choice2": "more peaceful / as hungry as",
+          "choice3": "peaceful / hungrily",
+          "choice4": "the most peacefully / hungrier"
+        }
+      ],
+      "questionAnswer": "peacefully / hungry",
+      "questionScore": 5
+    },
+    {
+      "question_no": 95,
+      "question": "Your watch says 10:45 a.m., mine says 11 a.m; in this case either your watch is very ___ or my watch is very ___.",
+      "questionChoice": [
+        {
+          "choice1": "slower / fast",
+          "choice2": "slow / faster",
+          "choice3": "slowly / faster",
+          "choice4": "slow / fast"
+        }
+      ],
+      "questionAnswer": "slow / fast",
+      "questionScore": 5
+    },
+    {
+      "question_no": 96,
+      "question": "The United States is ___ away from Turkey than the Republic of Ireland.",
+      "questionChoice": [
+        {
+          "choice1": "as far",
+          "choice2": "far",
+          "choice3": "the farthest",
+          "choice4": "farther"
+        }
+      ],
+      "questionAnswer": "farther",
+      "questionScore": 5
+    },
+    {
+      "question_no": 97,
+      "question": "The ___ way of travelling is by plane, and it is also ___ in my opinion.",
+      "questionChoice": [
+        {
+          "choice1": "fastest / comfortably",
+          "choice2": "fastest / the most comfortable",
+          "choice3": "as fast as / more comfortable",
+          "choice4": "fast / less comfortable"
+        }
+      ],
+      "questionAnswer": "fastest / the most comfortable",
+      "questionScore": 5
+    },
+    {
+      "question_no": 98,
+      "question": "There are ___ potatoes in the cupboard, but I don't have __ carrots, I need to buy some.",
+      "questionChoice": [
+        {
+          "choice1": "no / a few",
+          "choice2": "any / a little",
+          "choice3": "some / any",
+          "choice4": "many / much"
+        }
+      ],
+      "questionAnswer": "some / any",
+      "questionScore": 5
+    },
+    {
+      "question_no": 99,
+      "question": "There aren't ___ coins in the cash register so I need to get ___ change from the bank.",
+      "questionChoice": [
+        {
+          "choice1": "a lot of/ much",
+          "choice2": "many / a few",
+          "choice3": "no / a little",
+          "choice4": "any / some"
+        }
+      ],
+      "questionAnswer": "any / some",
+      "questionScore": 5
+    },
+    {
+      "question_no": 100,
+      "question": "If you ring the doorbell at half past six, ........... will be home answer the door.",
+      "questionChoice": [
+        {
+          "choice1": "something",
+          "choice2": "someone",
+          "choice3": "somewhere",
+          "choice4": "everything"
+        }
+      ],
+      "questionAnswer": "someone",
+      "questionScore": 5
+    },
+
+
+    {
+      "question_no": 101,
+      "question": "I have ___ money on me today, can you lend me ___?",
+      "questionChoice": [
+        {
+          "choice1": "many / a little",
+          "choice2": "a lot of / a few",
+          "choice3": "no / some",
+          "choice4": "any / every"
+        }
+      ],
+      "questionAnswer": "no / some",
+      "questionScore": 5
+    },
+    {
+      "question_no": 102,
+      "question": "There are ___ children but ___ adults In the playground today.",
+      "questionChoice": [
+        {
+          "choice1": "many / a little",
+          "choice2": "a lot of / every",
+          "choice3": "little / much",
+          "choice4": "few / a lot of"
+        }
+      ],
+      "questionAnswer": "few / a lot of",
+      "questionScore": 5
+    },
+    {
+      "question_no": 103,
+      "question": "For dessert, my friend eat ___ chocolate cake and I eat ___ apple pie, but it wasn't a big piece.",
+      "questionChoice": [
+        {
+          "choice1": "little / a few",
+          "choice2": "many / some",
+          "choice3": "much / no",
+          "choice4": "some / a little"
+        }
+      ],
+      "questionAnswer": "some / a little",
+      "questionScore": 5
+    },
+    {
+      "question_no": 104,
+      "question": "___ knew who the wallet belonged to, so we handed it in to our teacher.",
+      "questionChoice": [
+        {
+          "choice1": "Something",
+          "choice2": "Nobody",
+          "choice3": "Everyone",
+          "choice4": "Anybody"
+        }
+      ],
+      "questionAnswer": "Nobody",
+      "questionScore": 3
+    },
+    {
+      "question_no": 105,
+      "question": "..... can prevent an earthquake, but ...... can do something to lessen its destructive effects.",
+      "questionChoice": [
+        {
+          "choice1": "Anyone / someone",
+          "choice2": "Nothing / everybody",
+          "choice3": "Everything/ no one",
+          "choice4": "Somewhere / anything"
+        }
+      ],
+      "questionAnswer": "Nothing / everybody",
+      "questionScore": 5
+    },
+    {
+      "question_no": 106,
+      "question": " ___ the past, people used to live ___ small houses made of mud and straw.",
+      "questionChoice": [
+        {
+          "choice1": "In / in",
+          "choice2": "On / into",
+          "choice3": "At / outside",
+          "choice4": "For / at"
+        }
+      ],
+      "questionAnswer": "In/ in",
+      "questionScore": 5
+    },
+    {
+      "question_no": 107,
+      "question": " ___ New Year's Eve, people gather ___ each other's homes and celebrate the beginning of the new year.",
+      "questionChoice": [
+        {
+          "choice1": "In / down",
+          "choice2": "On / at",
+          "choice3": "At / over ",
+          "choice4": "Under / in"
+        }
+      ],
+      "questionAnswer": "On / at",
+      "questionScore": 5
+    },
+    {
+      "question_no": 108,
+      "question": "Two boats which crashed and sank are now ___ the bottom of the Atlantic Ocean.",
+      "questionChoice": [
+        {
+          "choice1": "onto",
+          "choice2": "under",
+          "choice3": "at",
+          "choice4": "near"
+        }
+      ],
+      "questionAnswer": "at",
+      "questionScore": 3
+    },
+    {
+      "question_no": 109,
+      "question": "My football got stuck ___ the roof of the house, so Dad is climbing ___ the ladder to get it.",
+      "questionChoice": [
+        {
+          "choice1": "on / up",
+          "choice2": "among / over",
+          "choice3": "around / along",
+          "choice4": "across/ down"
+        }
+      ],
+      "questionAnswer": "on / up",
+      "questionScore": 5
+    },
+    {
+      "question_no": 110,
+      "question": "The mouse walked ___ the pipe and then it jumped ___ the muddy water in the garden.",
+      "questionChoice": [
+        {
+          "choice1": "up / by",
+          "choice2": "behind / on",
+          "choice3": "through / into",
+          "choice4": "along / at"
+        }
+      ],
+      "questionAnswer": "through / into",
+      "questionScore": 5
+    },
+    {
+      "question_no": 111,
+      "question": "Mary didn't clean the carpets yesterday ___ the vacuum cleaner was broken.",
+      "questionChoice": [
+        {
+          "choice1": "so",
+          "choice2": "because",
+          "choice3": "although",
+          "choice4": "but"
+        }
+      ],
+      "questionAnswer": "because",
+      "questionScore": 5
+    },
+    {
+      "question_no": 112,
+      "question": "He was waiting ___ the airport while his friends were having fun ___ the party.",
+      "questionChoice": [
+        {
+          "choice1": "in / on",
+          "choice2": "at / at",
+          "choice3": "on / in",
+          "choice4": "in / with"
+        }
+      ],
+      "questionAnswer": "at / at",
+      "questionScore": 5
+    },
+    {
+      "question_no": 113,
+      "question": "She walked ___ the street and entered the building ___ the right of the bank.",
+      "questionChoice": [
+        {
+          "choice1": "around / at",
+          "choice2": "down / in",
+          "choice3": "across / on",
+          "choice4": "into / over"
+        }
+      ],
+      "questionAnswer": "at",
+      "questionScore": 5
+    },
+    {
+      "question_no": 114,
+      "question": "Derek needs to change his clothes ___ he accidentally fell ___ his neighbour's swimming pool.",
+      "questionChoice": [
+        {
+          "choice1": "so / onto",
+          "choice2": "because / into",
+          "choice3": "despite / at",
+          "choice4": "although / across"
+        }
+      ],
+      "questionAnswer": "because / into",
+      "questionScore": 5
+    },
+    {
+      "question_no": 115,
+      "question": "...... they heard the news, they hurried to the hospital.",
+      "questionChoice": [
+        {
+          "choice1": "As soon as",
+          "choice2": "Even though",
+          "choice3": "Until",
+          "choice4": "In spite of"
+        }
+      ],
+      "questionAnswer": "As soon as",
+      "questionScore": 5
+    },
+    {
+      "question_no": 116,
+      "question": "Please don't forget ___ your homework and your exercise books tomorrow.",
+      "questionChoice": [
+        {
+          "choice1": "bringing",
+          "choice2": "to bringing",
+          "choice3": "to bring",
+          "choice4": "bring"
+        }
+      ],
+      "questionAnswer": "to bring",
+      "questionScore": 3
+    },
+    {
+      "question_no": 117,
+      "question": "I prefer __ the meeting until next Friday because I have too much paper work ___.",
+      "questionChoice": [
+        {
+          "choice1": "to postpone / doing",
+          "choice2": "to postponing / do",
+          "choice3": "postpone / done",
+          "choice4": "postponing / to do"
+        }
+      ],
+      "questionAnswer": "postponing / to do",
+      "questionScore": 5
+    },
+    {
+      "question_no": 118,
+      "question": "When her guests leave, Diane will continue ___ on her project, and she expects ___ it till midnight.",
+      "questionChoice": [
+        {
+          "choice1": "working / to finish",
+          "choice2": "to work / finish",
+          "choice3": "to working / to finish",
+          "choice4": "work finishing"
+        }
+      ],
+      "questionAnswer": "working / to finish",
+      "questionScore": 5
+    },
+    {
+      "question_no": 119,
+      "question": "My uncle and aunt live in New York, so I am planning ___ to America this summer ___ them.",
+      "questionChoice": [
+        {
+          "choice1": "to go / to visit",
+          "choice2": "going / visit",
+          "choice3": "go / visiting",
+          "choice4": "going / to visiting"
+        }
+      ],
+      "questionAnswer": "to go / to visit",
+      "questionScore": 5
+    },
+    {
+      "question_no": 120,
+      "question": "That place is too far away ___ on a three-day holiday, so we want ___ at home and have some rest.",
+      "questionChoice": [
+        {
+          "choice1": "going / to staying",
+          "choice2": "going / to stay",
+          "choice3": "go / stay",
+          "choice4": "to go / to stay"
+        }
+      ],
+      "questionAnswer": "to go / to stay",
+      "questionScore": 5
+    },
+    {
+      "question_no": 121,
+      "question": "Nina didn't have enough sweets ___ with everyone in the office, so she decided ___ them by herself.",
+      "questionChoice": [
+        {
+          "choice1": "share / eating",
+          "choice2": "to share / to eat",
+          "choice3": "sharing / eat",
+          "choice4": "to sharing / eat"
+        }
+      ],
+      "questionAnswer": "to share / to eat",
+      "questionScore": 5
+    },
+    {
+      "question_no": 122,
+      "question": "Jules have enough money ___ that house, but she is hesitant about ___ a contract with Mr Bell, the owner of the house.",
+      "questionChoice": [
+        {
+          "choice1": "renting / to sign",
+          "choice2": "rent / sign",
+          "choice3": "to rent / signing",
+          "choice4": "to renting / signing"
+        }
+      ],
+      "questionAnswer": "to rent / signing",
+      "questionScore": 5
+    },
+    {
+      "question_no": 123,
+      "question": "My car broke down last week, and it is still at the garage because the mechanic has trouble ___ the right part.",
+      "questionChoice": [
+        {
+          "choice1": "find",
+          "choice2": "finding",
+          "choice3": "finds",
+          "choice4": "found"
+        }
+      ],
+      "questionAnswer": "finding",
+      "questionScore": 3
+    },
+    {
+      "question_no": 124,
+      "question": "You shouldn't spend too much time ___ one question during the exam; or else, you will fail ___ the others.",
+      "questionChoice": [
+        {
+          "choice1": "to slove / answering",
+          "choice2": "solve / to answering",
+          "choice3": "solving / to answer",
+          "choice4": "to solving / answer"
+        }
+      ],
+      "questionAnswer": "solving / to answer",
+      "questionScore": 5
+    },
+    {
+      "question_no": 125,
+      "question": "___ to music really makes me ___ relaxed and happy.",
+      "questionChoice": [
+        {
+          "choice1": "Listening / feel",
+          "choice2": "To listen / to feel",
+          "choice3": "Listen / feeling",
+          "choice4": "Listening / felt"
+        }
+      ],
+      "questionAnswer": "Listening / feel",
+      "questionScore": 5
+    },
+    {
+      "question_no": 126,
+      "question": "Harry's dog was chasing the neighbour's cat when it hurt ___ on the fence.",
+      "questionChoice": [
+        {
+          "choice1": "himself",
+          "choice2": "itself",
+          "choice3": "myself",
+          "choice4": "herself"
+        }
+      ],
+      "questionAnswer": "itself",
+      "questionScore": 3
+    },
+    {
+      "question_no": 127,
+      "question": "Usher has been playing video games by ___ since morning.",
+      "questionChoice": [
+        {
+          "choice1": "yourself",
+          "choice2": "ourselves",
+          "choice3": "itself",
+          "choice4": "himself"
+        }
+      ],
+      "questionAnswer": "himself",
+      "questionScore": 3
+    },
+    {
+      "question_no": 128,
+      "question": "This is the first time we've ridden horses, and we have really enjoyed ___.",
+      "questionChoice": [
+        {
+          "choice1": "themselves",
+          "choice2": "ourselves",
+          "choice3": "yourselves",
+          "choice4": "myself"
+        }
+      ],
+      "questionAnswer": "ourselves",
+      "questionScore": 3
+    },
+    {
+      "question_no": 129,
+      "question": " ___ of the passengers were sleeping when the plane crashed. Luckily, ___ of them was killed.",
+      "questionChoice": [
+        {
+          "choice1": "None / both",
+          "choice2": "Neither / all",
+          "choice3": "All / none",
+          "choice4": "Both / all"
+        }
+      ],
+      "questionAnswer": "All / none",
+      "questionScore": 5
+    },
+    {
+      "question_no": 121,
+      "question": "I ___ Daisy and her husband Dennis for fifteen years.",
+      "questionChoice": [
+        {
+          "choice1": "am knowing",
+          "choice2": "have known",
+          "choice3": "was knowing",
+          "choice4": "have been knowing"
+        }
+      ],
+      "questionAnswer": "have known",
+      "questionScore": 5
+    }
+
+
+
+
+  ]
+}

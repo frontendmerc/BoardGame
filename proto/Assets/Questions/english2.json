@@ -1,0 +1,62 @@
+﻿{
+  "questionList": [
+    {
+      "question_no": 1,
+      "question": "1+1",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "2",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "2",
+      "questionScore": 3
+    },
+
+    {
+      "question_no": 2,
+      "question": "3+3",
+      "questionChoice": [
+        {
+          "choice1": "is",
+          "choice2": "are",
+          "choice3": "6",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "6",
+      "questionScore": 3
+    },
+    {
+      "question_no": 3,
+      "question": "111 ",
+      "questionChoice": [
+        {
+          "choice1": "111",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "were"
+        }
+      ],
+      "questionAnswer": "111",
+      "questionScore": 5
+    },
+    {
+      "question_no": 4,
+      "question": "222 ",
+      "questionChoice": [
+        {
+          "choice1": "111",
+          "choice2": "are",
+          "choice3": "was",
+          "choice4": "222"
+        }
+      ],
+      "questionAnswer": "222",
+      "questionScore": 5
+    }
+
+  ]
+}
